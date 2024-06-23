@@ -1,5 +1,6 @@
 # portfolio-order-management
-building a portfolio order management system
+
+**Disclaimer**: This was the initial prototype. The beta-friendly version is a private WIP. This brainstorm is sort of a stream-of-consciousness rabbit hole dive. I kept writing on journals, sticky notes, and scraps of paper like a detective. 😂
 
 Building a portfolio order management system in Python involves several steps:
 
